@@ -1,0 +1,4 @@
+{
+  "welcome_user": "Welcome, {{username}}!",
+  "items_count": "You have {{count}} items"
+}
