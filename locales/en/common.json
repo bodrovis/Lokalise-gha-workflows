@@ -1,5 +1,6 @@
 {
   "hello": "Hello",
   "logout": "Log out",
-  "c_new": "new common"
+  "c_new": "c",
+  "c2_new": "c2"
 }
