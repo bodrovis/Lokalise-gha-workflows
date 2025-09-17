@@ -23,3 +23,9 @@ jobs:
             public/messages
           file_format: json
           file_ext: json
+          skip_tagging: true
+          additional_params: >
+            {
+              "tag_inserted_keys: true,
+              "tags": ["custom", "another_tag"]
+            }
