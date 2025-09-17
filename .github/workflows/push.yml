@@ -26,6 +26,6 @@ jobs:
           skip_tagging: true
           additional_params: >
             {
-              "tag_inserted_keys: true,
+              "tag_inserted_key": true,
               "tags": ["custom", "another_tag"]
             }
